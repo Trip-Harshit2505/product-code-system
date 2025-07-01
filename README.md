@@ -30,6 +30,7 @@ Backend system to manage product catalog and generate unique product codes for t
 
 ## 🗂️ Folder Structure
 
+```
 product-code-system/
 ├── routes/
 │ ├── admin.js
@@ -49,6 +50,7 @@ product-code-system/
 ├── .env
 ├── README.md
 └── package.json
+```
 
 
 ---
@@ -58,7 +60,7 @@ product-code-system/
 ### 📥 Clone & Install
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Trip-Harshit2505/product-code-system.git
 cd product-code-system
 npm install
 ```
