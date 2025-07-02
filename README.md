@@ -46,6 +46,8 @@ product-code-system/
 │ ├── auth.js
 │ └── upload.js
 ├── uploads/
+├── utils/
+│   └── db.js
 ├── app.js
 ├── .env
 ├── README.md
